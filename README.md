@@ -1,4 +1,9 @@
 ### Hi there 👋
+My name is Samuel
+
+🔭I'm a dedicated Software Developer adept at building responsive web app from front to back
+🌱I'm currently learning 
+👯I'm looking to collaborate with other passionate developers
 
 <!--
 **samfajobi/samfajobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
