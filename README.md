@@ -2,7 +2,7 @@
 My name is Samuel
 
 🔭I'm a dedicated Software Developer adept at building responsive web app from front to back
-🌱I'm currently learning 
+🌱I'm currently learning React, Node Js, Javascript and Firebase
 👯I'm looking to collaborate with other passionate developers
 
 <!--
