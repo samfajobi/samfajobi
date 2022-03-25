@@ -1,9 +1,9 @@
 ### Hi there 👋
 My name is Samuel
 
-🔭I'm a dedicated Software Developer 
-🌱I'm currently learning React, Node Js, Javascript and Firebase
-👯I'm looking to collaborate with other passionate developers
+- 🔭 I'm a dedicated Software Developer 
+- 🌱 I'm currently learning React, Node Js, Javascript and Firebase
+- 👯 I'm looking to collaborate with other passionate developers
 
 <!--
 **samfajobi/samfajobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
