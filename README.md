@@ -2,7 +2,7 @@
 My name is Samuel
 
 - 🔭 I'm a dedicated Software Developer 
-- 🌱 I'm currently learning React, Node Js, Javascript and Firebase
+- 🌱 I use React, Node Js, Javascript and Firebase
 - 👯 I'm looking to collaborate with other passionate developers
 
 <!--
