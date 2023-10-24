@@ -3,6 +3,7 @@ My name is Samuel
 
 - 🔭 I'm a dedicated Software Developer 
 - 🌱 I use React, Node Js, Javascript and Firebase
+- 🔭 Passionate about Blockchain(Smart Contract, Cryptography)
 - 👯 I'm looking to collaborate with other passionate developers
 
 <!--
