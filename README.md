@@ -1,7 +1,9 @@
 Hi 👋 My name is Olusegun Fajobi(SamFajobi)
 ===============================
 
-Cybersecurity Engineer💻 SOC Analyst | Penetration Tester | Cloud Security Enthusiast
+Cybersecurity Engineer💻 
+-------------------
+SOC Analyst | Penetration Tester | Cloud Security Enthusiast
 -------------------
 
 I've been interested in cyber security 8+ years with a specialization in Splunk Engineering, Threat Detection, & Insider Threat. I'm now honing my skillset in cloud threat detections & cloud development ☁️.
