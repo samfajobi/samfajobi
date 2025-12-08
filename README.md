@@ -11,7 +11,7 @@ A passionate Cybersecurity Engineer with Hands-on experience in threat detection
 * 🌍  I'm based in Lagos, Nigeria.
 * ✉️  You can contact me at [olusegunfajobi12@gmail.com](mailto:olusegunfajobi12@gmail.com)
 * 🧠  I'm learning Blockchain Security
-* 🤝  I'm open to collaborating on Cloud Based Projects, Threat Detections, Home Labs, & more.
+* 🤝  I'm open to collaborating on Cloud Based Projects, Threat Detections, Open-Source security projects, Home Labs, & more.
 
 
 ### Skills
@@ -23,4 +23,4 @@ A passionate Cybersecurity Engineer with Hands-on experience in threat detection
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/samfajobi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/tayontech.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sam-fajobi77/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://x.com/SamuelFajobi03" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/samfajobi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://samfajobi.vercel.app/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sam-fajobi77/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://x.com/SamuelFajobi03" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
