@@ -3,7 +3,7 @@ Hi 👋 My name is Olusegun Fajobi (SamFajobi)
 
 Cybersecurity Engineer💻 
 -------------------
-SOC Analyst | Penetration Tester | Cloud Security Enthusiast
+SOC Analyst | Ethical Hacker | Cloud Security Enthusiast
 -------------------
 
 A passionate Cybersecurity Engineer with Hands-on experience in threat detection, pentesting, and securing cloud environments. Passionate about building real-world cybersecurity solutions ☁️.
@@ -13,10 +13,6 @@ A passionate Cybersecurity Engineer with Hands-on experience in threat detection
 * 🧠  I'm learning Blockchain Security
 * 🤝  I'm open to collaborating on Cloud Based Projects, Threat Detections, Home Labs, & more.
 
-<a href="https://x.com/SamuelFajobi03" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/tayontech?logo=twitter&style=for-the-badge&color=6366f1&labelColor=0f172a"
-/></a><a href="https://github.com/samfajobi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/tayontech?logo=github&style=for-the-badge&color=6366f1&labelColor=0f172a" /></a>
 
 ### Skills
 
