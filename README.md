@@ -10,7 +10,7 @@ A passionate Cybersecurity Engineer with Hands-on experience in threat detection
 
 * 🌍  I'm based in Lagos, Nigeria.
 * ✉️  You can contact me at [olusegunfajobi12@gmail.com](mailto:olusegunfajobi12@gmail.com)
-* 🧠  I'm learning Blockchain Security
+* 🧠  I'm interesting in learning Blockchain Security
 * 🤝  I'm open to collaborating on Cloud Based Projects, Threat Detections, Open-Source security projects, Home Labs, & more.
 
 
