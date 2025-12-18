@@ -3,7 +3,7 @@ Hi 👋 My name is Olusegun Fajobi (SamFajobi)
 
 Cybersecurity Engineer💻 | Blue & Red Teamer💻
 -------------------
-SOC Analyst | Ethical Hacker | Cloud Security Enthusiast
+SOC Analyst | Ethical Hacker | Cloud Security Engineer
 -------------------
 
 A passionate Cybersecurity Engineer with Hands-on experience in threat detection, pentesting, and securing cloud environments. Passionate about building real-world cybersecurity solutions ☁️.
