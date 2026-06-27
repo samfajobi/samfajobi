@@ -2,10 +2,8 @@ Hi 👋 My name is Olusegun Fajobi (SamFajobi)
 ===============================
 Security Engineer💻 | Blue & Red Teamer💻 | AI/ML Engineer
 -------------------
-SOC Analyst | Ethical Hacker | Cloud Security Engineer
--------------------
 
-A passionate Cybersecurity Engineer with Hands-on experience in threat detection, pentesting, and securing cloud environments. Passionate about building real-world cybersecurity solutions ☁️.
+A passionate Cybersecurity and Machine Learning Engineer with Hands-on experience in threat detection, pentesting, and securing cloud environments. Passionate about building real-world cybersecurity solutions ☁️.
 
 * 🌍  I'm based in Lagos, Nigeria.
 * ✉️  You can contact me at [olusegunfajobi12@gmail.com](mailto:olusegunfajobi12@gmail.com)
